@@ -1,4 +1,4 @@
-[![Gobi]()](https://github.com/Gobi-06/)<br>
+[![Gobi]](https://github.com/Gobi-06/)<br>
 # Chat-App
 
 ## Chat Application using Tkinter
